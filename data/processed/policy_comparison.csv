@@ -1,0 +1,11 @@
+Metric,Policy A (original),Policy B (floored)
+Mean service level,0.92,0.925
+Median service level,0.985,0.985
+Series below 95% target,34.0,34.0
+Mean stockout days,1.48,1.397
+Mean lost demand (ml),122.902,118.452
+Mean ending inventory (ml),2238.669,2246.663
+Mean on-hand inventory (ml),2521.372,2527.468
+Mean orders,2.004,2.007
+Mean order qty (ml),398.81,403.402
+Mean turnover,1.072,1.049

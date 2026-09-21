@@ -1,0 +1,14 @@
+# Core runtime
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+scikit-learn>=1.3
+scipy>=1.10
+
+# Used for the report PDF (optional; report/ contains the .md source)
+# reportlab>=4.0
+
+# Optional experiment frame (not required by the current solution)
+# statsmodels>=0.14
+# prophet>=1.1
